@@ -8,4 +8,4 @@ Veritabanı klasörlerin içinde mevcuttur (kutuphane.sql)
 Veritabanını kendi local veritabanınıza yuklediğinizde projeyi rahatlkla kullanabileceksiniz.
 Kullanıcı Girişi Bilgileri : 
 Kullanıcı Adı : Erhan 
-Kullanıcı Şifresi : 123 
+Kullanıcı Şifresi : 123   
