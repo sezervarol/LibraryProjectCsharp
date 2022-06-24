@@ -1,0 +1,181 @@
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.KitapEkleForm.resources
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.TurEkleForm.resources
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.RafEkleForm.resources
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.YazarEkleForm.resources
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.UyeEkleForm.resources
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.PersonelEkleForm.resources
+C:\Users\PC3EĞİTMEN\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.KitapDuzenleForm.resources
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.KitapDuzenleForm.resources
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.KitapEkleForm.resources
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.PersonelEkleForm.resources
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.RafEkleForm.resources
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.TurEkleForm.resources
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.UyeEkleForm.resources
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.YazarEkleForm.resources
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.YazarDüzenleForm.resources
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ÜyeDüzenleForm.resources
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.uyeOduncVerilenForm.resources
+C:\Users\Onur Şen\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.kitapoduncverilenform.resources
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.KitapDuzenleForm.resources
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.KitapEkleForm.resources
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.kitapoduncverilenform.resources
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.PersonelEkleForm.resources
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.RafEkleForm.resources
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.TurEkleForm.resources
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.UyeEkleForm.resources
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.uyeOduncVerilenForm.resources
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.YazarDüzenleForm.resources
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.YazarEkleForm.resources
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ÜyeDüzenleForm.resources
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\HP\Desktop\windows form\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.KitapDuzenleForm.resources
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.KitapEkleForm.resources
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.kitapoduncverilenform.resources
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.PersonelEkleForm.resources
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.RafEkleForm.resources
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.TurEkleForm.resources
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.UyeEkleForm.resources
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.uyeOduncVerilenForm.resources
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.YazarDüzenleForm.resources
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.YazarEkleForm.resources
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ÜyeDüzenleForm.resources
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Salman Kaplan\Desktop\kurs-proje\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.KitapDuzenleForm.resources
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.KitapEkleForm.resources
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.kitapoduncverilenform.resources
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.PersonelEkleForm.resources
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.RafEkleForm.resources
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.TurEkleForm.resources
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.UyeEkleForm.resources
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.uyeOduncVerilenForm.resources
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.YazarDüzenleForm.resources
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.YazarEkleForm.resources
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ÜyeDüzenleForm.resources
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Sezer VAROL\Downloads\kütüp-sonhali-seka\kütüp-onur\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
